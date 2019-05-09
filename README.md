@@ -6,7 +6,7 @@
 
 ### Background
 
-[![Harvesting Oranges](./oranges.jpg)](https://www.osc.org/support/membership/astc/)
+[![Harvesting Oranges](./resources/oranges.jpg)](https://www.osc.org/support/membership/astc/)
 
 “ASTC Passport Program.” *Orlando Science Center*, www.osc.org/support/membership/astc/.
 
@@ -20,7 +20,7 @@
 
 ​	In this research, I wanted to observe teaching methods in a variety of different subjects but all within fairly close geographical range of each other. Due to some of the museums on this list being stand out subjects of interest, as well as having had multiple publications about them, I decided on Central Europe. The museums on this list spanned: The Netherlands, Germany, and Austria and focus on a large variety of different subjects.
 
-[![Map of my route](\map.png)](https://drive.google.com/open?id=1oB8V2e3eRN2I7xjKYGf-mQ7WLDft63yV&usp=sharing)
+[![Map of my route](resources/\map.png)](https://drive.google.com/open?id=1oB8V2e3eRN2I7xjKYGf-mQ7WLDft63yV&usp=sharing)
 
 * The Van Gogh Museum, Amsterdam, Netherlands (Art)
 * The Rijksmuseum, Amsterdam, Netherlands (Art & History)
@@ -44,7 +44,7 @@
 
 ​	Another facet that heavily influences the evaluation of these museums' exhibits is the user's experience with these new technologies. User Experience encompasses a very broad and developing field. The 
 
-![User Experience](\userexp.png)
+![User Experience](resources\userexp.png)
 
 Interaction Design Foundation defines design principles as "widely applicable laws, guidelines, biases and design considerations, all reflecting researchers’ and practitioners’ accumulated knowledge and experience" (“What Are Design Principles?”). In contrast, Marc Hassenzahl, a professor for "User Experience and Ergonomics" at the Folkwang University in Essen, Germany, elaborates that "Experience or User Experience is not about good industrial design, multi-touch, or fancy interfaces. It is about transcending the material. It is about creating an experience through a device" (Hassenzahl). The experience that trancends the technology will be what this research focuses on. In the different museums there were many different technologies used. This allows us to look beyond the technolgies themselves and look at the greater experience that was enhanced by technology.
 
@@ -52,7 +52,7 @@ Interaction Design Foundation defines design principles as "widely applicable la
 
 ​	In evaluating these exhibits' use of technology the two facets we will be assessing are the educational value as well as the user experience.  The metrics we will be using to evaluate are inspired by Peter Morville's user experience honeycomb. Morville is a pioneer in information architecture and details out the following facets of user experience:
 
-[![Honeycomb](/Users/HaleyFletcher/Documents/School/Honors%20Research//honeycomb.jpg)]([http://semanticstudios.com/user_experience_design/](http://semanticstudios.com/user_experience_design/))
+[![Honeycomb](resources/honeycomb.jpg)]([http://semanticstudios.com/user_experience_design/](http://semanticstudios.com/user_experience_design/))
 
 
 
@@ -81,23 +81,23 @@ Interaction Design Foundation defines design principles as "widely applicable la
 
 ####Het Nieuwe Instituut
 
-![Het Nieuwe Instituut Exterior](\hetnieuwe.jpg)
+![Het Nieuwe Instituut Exterior](resources\hetnieuwe.jpg)
 
 *Het Nieuwe Instituut. Photo Johannes Schwartz.*
 
 The Het Nieuwe Instituut is a Design, Architecture, and Digital culture museum in Rotterdam, Netherlands. While there they offered digital experiences in a few different contexts. One of their exhibits was about the potential for human inhabitation of Mars. This exhibit included both augmented reality: a "see yourself on Mars" type of exhibit, as well as an interested light display projected onto glass, see below.
 
-![Projection holograph](\mars.gif)
+![Projection holograph](resources\mars.gif)
 
 They also had an exhibit that used screens to portray posters from the American Tea Party political group in an exhibit about extremism.
 
-![Tea party posters](\teaparty.jpg)
+![Tea party posters](resources\teaparty.jpg)
 
 
 
 #### Neanderthal Museum
 
-![Neanderthal Museum Exterior](\neanderthal.jpg)
+![Neanderthal Museum Exterior](resources\neanderthal.jpg)
 
 *Neanderthal Museum.  https://www.neanderthal.de/en/Museum-Building.html*
 
@@ -105,39 +105,39 @@ They also had an exhibit that used screens to portray posters from the American 
 
 ​	The museum's audioguide system is through plugging the rented headphones into audio stations in front of the exhibits.
 
-| Pole to plug in headphones    | Audio station for app        |
-| ----------------------------- | ---------------------------- |
-| ![Audio Pole](\audiopole.jpg) | ![Audio Sign](audiosign.jpg) |
+| Pole to plug in headphones             | Audio station for app                  |
+| -------------------------------------- | -------------------------------------- |
+| ![Audio Pole](resources\audiopole.jpg) | ![Audio Sign](resources\audiosign.jpg) |
 
 These worked fairly well, the only downside being that one has to stay stationary.
 
 Another piece of technology they had were very large touch screen machines (also in German), and in the opposite side of the touch screen the box had cupboard with objects inside for more tactile learning options.
 
-| Side of machine with touch screen | Cupboards with tactile activities inside |
-| --------------------------------- | ---------------------------------------- |
-| ![touch machine](\machine.jpg)    | ![Side with cupboards](\cupboards.jpg)   |
+| Side of machine with touch screen       | Cupboards with tactile activities inside        |
+| --------------------------------------- | ----------------------------------------------- |
+| ![touch machine](resources\machine.jpg) | ![Side with cupboards](resources\cupboards.jpg) |
 
 Another very creative form of technology use within the museum was an installation that was meant to simulate what it was like as a neanderthal being inside of a cave. Inside the "cave" there were displays showing cave walls and fires. 
 
-![Installment](\installment.gif)
+![Installment](resources\installment.gif)
 
 
 
 #### Städel Museum
 
-![Stadel exterior](\stadel.jpg)
+![Stadel exterior](resources\stadel.jpg)
 
 *Städel Museum Exterior. https://www.frankfurt-tourismus.de/en/Media/Attractions/Museums/Staedel-Museum*
 
 ​	The Städel Museum is an art museum in Frankfurt, Germany. On their website they state that "the aim of our diverse and mutually complementary digital activities is not merely to “reconstruct” a virtual museum in the digital realm."  The museum states in its article on digital strategy that "the digital realm offers unlimited scope, and the Städel Museum is taking advantage of this circumstance to expand its sphere of influence and communicate its contents on an entirely new scale" (Eschenfelder). The Städel has a heavy online presence that includes an online collection as well as an app. Their app is very similar to their in-museum audio guide. It also offers different options of different narratives to hear about the piece. 
 
-| App Screenshots                          | Descriptions                                                 |
-| ---------------------------------------- | ------------------------------------------------------------ |
-| ![Stadel App Home Page](\stadelhome.png) | The app's homepage                                           |
-| ![](\imagerecog.jpg)                     | The app uses image recognition to figure out which painting you want to explore. |
-| ![1st page](\artpage1.jpg)               | Once you select a painting the app takes you to a page with information about the painting. |
-| ![Art page 2](\artpage2.jpg)             | The page continues with different categories of audioguides based on what the user wants to learn about. |
-| ![Art page 3](\artpage3.jpg)             | The app also includes videos about the art pieces as well as ways to order prints of the images. |
+| App Screenshots                                   | Descriptions                                                 |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| ![Stadel App Home Page](resources\stadelhome.png) | The app's homepage                                           |
+| ![](resources\imagerecog.jpg)                     | The app uses image recognition to figure out which painting you want to explore. |
+| ![1st page](resources\artpage1.jpg)               | Once you select a painting the app takes you to a page with information about the painting. |
+| ![Art page 2](resources\artpage2.jpg)             | The page continues with different categories of audioguides based on what the user wants to learn about. |
+| ![Art page 3](resources\artpage3.jpg)             | The app also includes videos about the art pieces as well as ways to order prints of the images. |
 
 
 
@@ -145,35 +145,35 @@ Another very creative form of technology use within the museum was an installati
 
 The Dornier museum is an aerospace museum in Friedrichshafen, Germany. It incorporated a few artistic ways of using technology. Some of the exhibits had model planes in front of short videos playing information about the planes. 
 
-![Planes Projection](\planesprojection.jpg)
+![Planes Projection](resources\planesprojection.jpg)
 
-| Tech Installations                    | Descriptions                                                 |
-| ------------------------------------- | ------------------------------------------------------------ |
-| ![Spinning Wheel](\spinningwheel.jpg) | An installation that allows you to turn the wheel to display different model planes inside. |
-| ![Digital Drone](\digitdrone.gif)     | A screen with information about the recovery of a Mission Cycle Drone. |
-| ![Projector](\projection.jpg)         | A projector display playing a video.                         |
+| Tech Installations                             | Descriptions                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| ![Spinning Wheel](resources\spinningwheel.jpg) | An installation that allows you to turn the wheel to display different model planes inside. |
+| ![Digital Drone](resources\digitdrone.gif)     | A screen with information about the recovery of a Mission Cycle Drone. |
+| ![Projector](resources\projection.jpg)         | A projector display playing a video.                         |
 
 
 
 #### Haus der Natur
 
-![Haus Der Natur Exterior](\hausdernatur.jpg)
+![Haus Der Natur Exterior](resources\hausdernatur.jpg)
 
 *[History - House of Nature](https://www.hausdernatur.at/en/history.html)*
 
 ​	The Haus der Natur is a science & natural history museum, which has an aquarium and a reptile zoo, in Salzburg, Austria. The most impressive part of their exhibits in terms of technology was the science museum portion which was geared towards kids and included a lot of game-like discovery or gamification.
 
-| Installations                     | Descriptions                                                 |
-| --------------------------------- | ------------------------------------------------------------ |
-| ![fingerprint](\fingerprint.gif)  | A machine that teaches kids about fingerprints <br>by letting them scan their own and get a printout. |
-| ![simulation](\simulation.gif)    | A simulation that allows visitors to explore through flight what the world looked like 20000 years ago as well as in present day. |
-| ![Ski Jump Exhibit](\skijump.gif) | A ski jump exhibit that allows the user to learn about<br> force through jumping off a platform and seeing<br> how well they can jump in competition with previous visitors. |
+| Installations                              | Descriptions                                                 |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| ![fingerprint](resources\fingerprint.gif)  | A machine that teaches kids about fingerprints <br>by letting them scan their own and get a printout. |
+| ![simulation](resources\simulation.gif)    | A simulation that allows visitors to explore through flight what the world looked like 20000 years ago as well as in present day. |
+| ![Ski Jump Exhibit](resources\skijump.gif) | A ski jump exhibit that allows the user to learn about<br> force through jumping off a platform and seeing<br> how well they can jump in competition with previous visitors. |
 
 
 
 #### Keltenmuseum
 
-![Keltenmuseum exterior](\keltenmuseum.jpeg)
+![Keltenmuseum exterior](resources\keltenmuseum.jpeg)
 
 *salzburg.info*	
 
@@ -181,13 +181,13 @@ The Dornier museum is an aerospace museum in Friedrichshafen, Germany. It incorp
 
 | Speaking celt on target that is also outside the museum | Speaking celt on target topic about chariots |
 | ------------------------------------------------------- | -------------------------------------------- |
-| ![Celt image](\celt2.png)                               | ![Celt app](\celt1.png)                      |
+| ![Celt image](resources\celt2.png)                      | ![Celt app](resources\celt1.png)             |
 
 
 
 #### Museum für Naturkunde
 
-![Museum fur Naturkunde exhibit](\naturkunde.jpg)
+![Museum fur Naturkunde exhibit](resources\naturkunde.jpg)
 
 *Galerie. Museum für Naturkunde Berlin*
 
@@ -195,16 +195,16 @@ The Museum für Naturkunde is a Natural history museum in Berlin, Germany. The m
 
 | Exhibit  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Tristan projector](\tristan.gif)                           | A glass installation a slight distance from their T. Rex exhibit *Tristan*, that displays a projected animation with facts about the artifact |
-| ![Text video](\textimage.gif)                                | In some of the text displays, they had in-display monitors that would allow a visitor to tap a word in the text and start a video that defines and discusses that term. |
-| ![Circle Projector](\circleprojector.jpg)                    | This exhibit is a circular projection above a couch so visitors can sit back and learn about the stars and the earth. |
-| ![map slider](mapslider.gif)                                 | This installation allows a user to see the evolution of the earth starting with Pangea and moving into present day. |
+| ![Tristan projector](resources\tristan.gif)                  | A glass installation a slight distance from their T. Rex exhibit *Tristan*, that displays a projected animation with facts about the artifact |
+| ![Text video](resources\textimage.gif)                       | In some of the text displays, they had in-display monitors that would allow a visitor to tap a word in the text and start a video that defines and discusses that term. |
+| ![Circle Projector](resources\circleprojector.jpg)           | This exhibit is a circular projection above a couch so visitors can sit back and learn about the stars and the earth. |
+| ![map slider](\resources\mapslider.gif)                      | This installation allows a user to see the evolution of the earth starting with Pangea and moving into present day. |
 
 
 
 #### Deep Dive: Rijksmuseum
 
-![Rijksmuseum Exterior](\rijksmuseum.jpg)
+![Rijksmuseum Exterior](resources\rijksmuseum.jpg)
 
 *[Awesome Amsterdam](https://awesomeamsterdam.com/rijksmuseum/)*
 
@@ -216,13 +216,17 @@ The Museum für Naturkunde is a Natural history museum in Berlin, Germany. The m
 
 | App Screenshots                                              | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Rijksmuseum app 1](\rijksapp1.png)                         | The home page of the app/multimedia tour which allows the user to select either one of 14 guided tours or the ability to explore on their own at their own pace. It additionally allows them to select from one of 9 different languages. |
-| ![Screenshot of the different art pieces in the map](\locations.png) | The app allows you to see where art pieces are compared to where you are. |
-| ![What the app looks like when viewing a specific work](\artpiece.png) | This is what the app looks like when the user is viewing a specific piece of work. |
+| ![Rijksmuseum app 1](resources\rijksapp1.png)                | The home page of the app/multimedia tour which allows the user to select either one of 14 guided tours or the ability to explore on their own at their own pace. It additionally allows them to select from one of 9 different languages. |
+| ![Screenshot of the different art pieces in the map](resources\locations.png) | The app allows you to see where art pieces are compared to where you are. |
+| ![What the app looks like when viewing a specific work](resources\artpiece.png) | This is what the app looks like when the user is viewing a specific piece of work. |
 
 
 
 #### Van Gogh Museum: Deep Dive
+
+![van gogh exterior](resources\vangogh.jpg)
+
+​	*Van Gogh Museum.*
 
 ​	The Van Gogh Museum is a museum in Amsterdam, Netherlands that focuses on the many works of Van Gogh. The Van Gogh museum in recent years has won awards for their app, racking up the most points in the category that deals with communication with the public before, during, and after a museum experience (“App Touch Van Gogh Wins Another Two Awards”). The museum was able to take advantage of the "new technological ‘habits’" of visitors to be able to "promote immersion and engagement among visitors and non-visitors alike, onsite and online" (“Heritage in Motion - Europeana”).
 
@@ -232,12 +236,12 @@ The Museum für Naturkunde is a Natural history museum in Berlin, Germany. The m
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Which way to explore](\whichway.jpg)                       | The beginning of the app that allows the user to select which way they would like to explore the museum. |
-| ![Starting screen](\start.jpg)                               | Detailing the "Explore at leisure" option.                   |
-| ![selector for paintings](\selector.gif)                     | The part of the app that allows the user to select what painting they want to learn about based on a number next to the painting. |
-| ![van gogh paint mixing](\paintmixing.gif)                   | A portion of the app that allows the user to experiment with mixing "paint" based off of the color in Van Gogh's painting. |
-| ![Learn about the different parts of paintings](\facets.gif) | A part of the app that allows the user to click on specific parts of the painting and hear more about them. |
-| ![map with contexts](\aries.gif)                             | An animation of a part of Van Gogh's life and short videos with historical contexts behind them. |
+| ![Which way to explore](resources\whichway.jpg)              | The beginning of the app that allows the user to select which way they would like to explore the museum. |
+| ![Starting screen](resources\start.jpg)                      | Detailing the "Explore at leisure" option.                   |
+| ![selector for paintings](resources\selector.gif)            | The part of the app that allows the user to select what painting they want to learn about based on a number next to the painting. |
+| ![van gogh paint mixing](resources\paintmixing.gif)          | A portion of the app that allows the user to experiment with mixing "paint" based off of the color in Van Gogh's painting. |
+| ![Learn about the different parts of paintings](resources\facets.gif) | A part of the app that allows the user to click on specific parts of the painting and hear more about them. |
+| ![map with contexts](resources\aries.gif)                    | An animation of a part of Van Gogh's life and short videos with historical contexts behind them. |
 
 
 

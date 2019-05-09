@@ -79,7 +79,7 @@ Interaction Design Foundation defines design principles as "widely applicable la
 
 ​	In this section, I plan to discuss a brief overview on each of the museums I researched. I also intend to do an in depth discussion on two, the Rijksmuseum, and the Van Gogh Museum because of their widely documented digital strategies and their strengths as museums in this space.
 
-####Het Nieuwe Instituut
+#### Het Nieuwe Instituut
 
 ![Het Nieuwe Instituut Exterior](resources\hetnieuwe.jpg)
 
@@ -241,7 +241,7 @@ The Museum für Naturkunde is a Natural history museum in Berlin, Germany. The m
 | ![selector for paintings](resources\selector.gif)            | The part of the app that allows the user to select what painting they want to learn about based on a number next to the painting. |
 | ![van gogh paint mixing](resources\paintmixing.gif)          | A portion of the app that allows the user to experiment with mixing "paint" based off of the color in Van Gogh's painting. |
 | ![Learn about the different parts of paintings](resources\facets.gif) | A part of the app that allows the user to click on specific parts of the painting and hear more about them. |
-| ![map with contexts](resources\aries.gif)                    | An animation of a part of Van Gogh's life and short videos with historical contexts behind them. |
+| ![map with contexts](./resources/aries.gif)                  | An animation of a part of Van Gogh's life and short videos with historical contexts behind them. |
 
 
 
@@ -271,7 +271,7 @@ The Museum für Naturkunde is a Natural history museum in Berlin, Germany. The m
 
 ​	In line with constructionism, the ability to "make" or "experiment" with what one is learning is essential. The Van Gogh museum app allowed users to "mix their own paint" colors to match that of Van Gogh's. The Haus der Natur allowed learners to sing into a microphone to learn about their vocal chords, to create a printout of their fingerprints to understand that technology and to learn about the doppler effect by throwing a ball as hard as they could against a wall. It fostered tactile learning and allowed learners to experiment with what worked and what did not. 
 
-#####Connections and Contexts
+##### Connections and Contexts
 
 ​	One of the most beneficial parts of the museums was their ablility to connect new and old knowledge. This is a facet of constructionism, the ability to construct understandings and mental models of new information based on old information. In the Städel museum, one of their exhibits was was called "Rubens. The Power of Transformation" and as the Städel describes it: "the presentation revealed how profound the dialogue was into which Rubens entered with his predecessors’ and contemporaries’ achievements and fathomed the scope of their impact on the five decades of his production" (“Rubens”). This exhibit borrowed many pieces of work from other museums; they borrowed the works to add context for Rubens' work. This is important in learning about subjects that one has little experience in. Part of what made this so powerful was because the viewer was able to experience the works that Rubens was inspired by. This is one of the reasons why multimediaguides should be used to their full potential. The museum does not need to get other works from different museums if they viewers can be shown what the work is contextualized by. This is such an important revelation because artifacts do not exist in a vacuum, they exist as a small part of the world around them.
 

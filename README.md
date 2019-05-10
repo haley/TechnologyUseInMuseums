@@ -91,7 +91,7 @@ The Het Nieuwe Instituut is a Design, Architecture, and Digital culture museum i
 
 They also had an exhibit that used screens to portray posters from the American Tea Party political group in an exhibit about extremism.
 
-![Tea party posters](./resources/teaparty.jpg)
+![Tea party posters](./resources/teaparty.JPG)
 
 
 
@@ -107,7 +107,7 @@ They also had an exhibit that used screens to portray posters from the American 
 
 | Pole to plug in headphones               | Audio station for app                    |
 | ---------------------------------------- | ---------------------------------------- |
-| ![Audio Pole](./resources/audiopole.jpg) | ![Audio Sign](./resources/audiosign.jpg) |
+| ![Audio Pole](./resources/audiopole.JPG) | ![Audio Sign](./resources/audiosign.JPG) |
 
 These worked fairly well, the only downside being that one has to stay stationary.
 
@@ -115,7 +115,7 @@ Another piece of technology they had were very large touch screen machines (also
 
 | Side of machine with touch screen         | Cupboards with tactile activities inside          |
 | ----------------------------------------- | ------------------------------------------------- |
-| ![touch machine](./resources/machine.jpg) | ![Side with cupboards](./resources/cupboards.jpg) |
+| ![touch machine](./resources/machine.JPG) | ![Side with cupboards](./resources/cupboards.JPG) |
 
 Another very creative form of technology use within the museum was an installation that was meant to simulate what it was like as a neanderthal being inside of a cave. Inside the "cave" there were displays showing cave walls and fires. 
 
@@ -133,7 +133,7 @@ Another very creative form of technology use within the museum was an installati
 
 | App Screenshots                                     | Descriptions                                                 |
 | --------------------------------------------------- | ------------------------------------------------------------ |
-| ![Stadel App Home Page](./resources/stadelhome.png) | The app's homepage                                           |
+| ![Stadel App Home Page](./resources/stadelhome.PNG) | The app's homepage                                           |
 | ![](./resources/imagerecog.jpg)                     | The app uses image recognition to figure out which painting you want to explore. |
 | ![1st page](./resources/artpage1.jpg)               | Once you select a painting the app takes you to a page with information about the painting. |
 | ![Art page 2](./resources/artpage2.jpg)             | The page continues with different categories of audioguides based on what the user wants to learn about. |
@@ -173,7 +173,7 @@ The Dornier museum is an aerospace museum in Friedrichshafen, Germany. It incorp
 
 #### Keltenmuseum
 
-![Keltenmuseum exterior](resources\keltenmuseum.jpeg)
+![Keltenmuseum exterior](resources\keltenmuseum.JPEG)
 
 *salzburg.info*	
 

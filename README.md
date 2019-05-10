@@ -181,7 +181,7 @@ The Dornier museum is an aerospace museum in Friedrichshafen, Germany. It incorp
 
 | Speaking celt on target that is also outside the museum | Speaking celt on target topic about chariots |
 | ------------------------------------------------------- | -------------------------------------------- |
-| ![Celt image](./resources/celt2.png)                    | ![Celt app](./resources/celt1.png)           |
+| ![Celt image](./resources/celt2.PNG)                    | ![Celt app](./resources/celt1.PNG)           |
 
 
 
@@ -197,7 +197,7 @@ The Museum für Naturkunde is a Natural history museum in Berlin, Germany. The m
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Tristan projector](./resources/tristan.gif)                | A glass installation a slight distance from their T. Rex exhibit *Tristan*, that displays a projected animation with facts about the artifact |
 | ![Text video](./resources/textimage.gif)                     | In some of the text displays, they had in-display monitors that would allow a visitor to tap a word in the text and start a video that defines and discusses that term. |
-| ![Circle Projector](./resources/circleprojector.jpg)         | This exhibit is a circular projection above a couch so visitors can sit back and learn about the stars and the earth. |
+| ![Circle Projector](./resources/circleprojector.JPG)         | This exhibit is a circular projection above a couch so visitors can sit back and learn about the stars and the earth. |
 | ![map slider](./resources/mapslider.gif)                     | This installation allows a user to see the evolution of the earth starting with Pangea and moving into present day. |
 
 

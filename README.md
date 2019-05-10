@@ -173,7 +173,7 @@ The Dornier museum is an aerospace museum in Friedrichshafen, Germany. It incorp
 
 #### Keltenmuseum
 
-![Keltenmuseum exterior](resources\keltenmuseum.JPEG)
+![Keltenmuseum exterior](resources\keltenmuseum.jpeg)
 
 *salzburg.info*	
 
